@@ -1,0 +1,9 @@
+generator,format,n,median_width,median_height
+ADM,png,500,256.0,256.0
+BigGAN,png,500,128.0,128.0
+GLIDE,png,500,256.0,256.0
+Midjourney,png,500,1024.0,1024.0
+SD15,png,500,512.0,512.0
+VQDM,png,500,256.0,256.0
+Wukong,png,500,512.0,512.0
+real,jpeg,3500,500.0,375.0
